@@ -24,6 +24,13 @@
     self.sum = a + b;
     NSLog(@"-----%d",self.sum);
     
+    [self sayByeBye];
+    
+}
+
+-(void)sayByeBye
+{
+    NSLog(@"----byebye");
 }
 
 - (void)didReceiveMemoryWarning {

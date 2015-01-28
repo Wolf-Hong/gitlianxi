@@ -13,5 +13,6 @@
 @interface ViewController : UIViewController
 
 @property (nonatomic) int sum;
+- (void) sayByeBye;
 @end
 
