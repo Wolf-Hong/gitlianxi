@@ -16,6 +16,7 @@
 		9A3293F51A78E08A004DA9CB /* gitlianxiTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A3293F41A78E08A004DA9CB /* gitlianxiTests.m */; };
 		9A3294001A78E30F004DA9CB /* TestClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A3293FF1A78E30F004DA9CB /* TestClass.m */; };
 		9A3294031A78E57F004DA9CB /* shishi.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A3294021A78E57F004DA9CB /* shishi.m */; };
+		9A3294061A78E600004DA9CB /* zaishishi.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A3294051A78E600004DA9CB /* zaishishi.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,8 @@
 		9A3293FF1A78E30F004DA9CB /* TestClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestClass.m; sourceTree = "<group>"; };
 		9A3294011A78E57F004DA9CB /* shishi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = shishi.h; sourceTree = "<group>"; };
 		9A3294021A78E57F004DA9CB /* shishi.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = shishi.m; sourceTree = "<group>"; };
+		9A3294041A78E600004DA9CB /* zaishishi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = zaishishi.h; sourceTree = "<group>"; };
+		9A3294051A78E600004DA9CB /* zaishishi.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = zaishishi.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +97,8 @@
 				9A3294011A78E57F004DA9CB /* shishi.h */,
 				9A3294021A78E57F004DA9CB /* shishi.m */,
 				9A3293FE1A78E30F004DA9CB /* TestClass.h */,
+				9A3294041A78E600004DA9CB /* zaishishi.h */,
+				9A3294051A78E600004DA9CB /* zaishishi.m */,
 				9A3293FF1A78E30F004DA9CB /* TestClass.m */,
 				9A3293E21A78E08A004DA9CB /* Main.storyboard */,
 				9A3293E51A78E08A004DA9CB /* Images.xcassets */,
@@ -233,6 +238,7 @@
 				9A3293E11A78E08A004DA9CB /* ViewController.m in Sources */,
 				9A3293DE1A78E08A004DA9CB /* AppDelegate.m in Sources */,
 				9A3293DB1A78E08A004DA9CB /* main.m in Sources */,
+				9A3294061A78E600004DA9CB /* zaishishi.m in Sources */,
 				9A3294031A78E57F004DA9CB /* shishi.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

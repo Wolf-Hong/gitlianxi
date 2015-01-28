@@ -11,6 +11,7 @@
 @interface ViewController ()
 @property (nonatomic,strong) TestClass *testClass;
 @property (nonatomic,strong) shishi *shishiClass;
+@property (nonatomic,strong) zaishishi *zaishishi;
 @end
 
 @implementation ViewController
