@@ -10,6 +10,7 @@
 
 @interface ViewController ()
 @property (nonatomic,strong) TestClass *testClass;
+@property (nonatomic,strong) shishi *shishiClass;
 @end
 
 @implementation ViewController

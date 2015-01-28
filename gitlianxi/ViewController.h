@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "TestClass.h"
+#import "shishi.h"
 @interface ViewController : UIViewController
 
 @property (nonatomic) int sum;
